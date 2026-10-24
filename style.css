@@ -7,7 +7,7 @@ body { margin: 0; background: var(--bg); color: var(--fg);
   font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
 main { max-width: 680px; margin: 0 auto; padding: 48px 16px 64px; }
 header { text-align: center; margin-bottom: 32px; }
-header img { border-radius: 20px; }
+header img { border-radius: 22px; }
 h1 { font-size: 1.9rem; margin: 12px 0 4px; line-height: 1.2; }
 h2 { font-size: 1.15rem; margin: 32px 0 8px; }
 .tag { color: var(--muted); margin: 0; }
